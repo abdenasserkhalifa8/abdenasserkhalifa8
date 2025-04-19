@@ -6,6 +6,17 @@
 - Electrical circuit design and troubleshooting
 
 ---
+## 🎓 Education:
+- **Institut Supérieur des Études Technologiques de Radès (ISET Radès)**
+  - **Diplôme d'Études Supérieures Techniques  in Electrical Engineering**
+
+---
+
+## 🌐 Languages:
+- **Arabic** (Native)
+- **French** (Intermediate)
+- **English** (Intermediate)
+- **German** (Beginner)
 
 ## 🎥 Light Project Video
 
