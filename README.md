@@ -25,6 +25,7 @@ Bachelor's Degree in Electrical Engineering
 - German (Beginner)
 
 🎥 Project Videos:
+
 I created a 2D animated video to explain the simple principle of how light works, demonstrating its behavior with different materials in various environments.
 
 ▶️ [Watch the video on YouTube](https://youtu.be/M9du1OaK26g?feature=shared)
