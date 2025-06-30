@@ -17,6 +17,7 @@ Bachelor's Degree in Electrical Engineering
 
 - **Graphic Design & Animation:**  
   Adobe After Effects, Adobe Illustrator, Adobe Photoshop, Adobe Animate, DaVinci Resolve
+  
  🌐 Languages:
 - Arabic (Native)
 - French (Intermediate)
@@ -25,10 +26,12 @@ Bachelor's Degree in Electrical Engineering
 
 🎥 Project Videos:
 I created a 2D animated video to explain the simple principle of how light works, demonstrating its behavior with different materials in various environments.
+
 ▶️ [Watch the video on YouTube]([https://www.youtube.com/watch?v=YourVideoID](https://youtu.be/M9du1OaK26g?feature=shared))
 
 🔋 How Batteries Work – Motion Graphic Video 
   A visual explanation of how batteries generate electricity and power circuits.  
+  
   ▶️ [Watch the video on YouTube] [https://youtu.be/e6eBb58yY3E?feature=shared]
 
 📜 Certifications:
