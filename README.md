@@ -1,5 +1,5 @@
 👋 Hello, I'm Abdenasser Khalifa
-Specialized Technician – 
+Specialized Technician
 Bachelor's Degree in Electrical Engineering | Industrial Maintenance,
 Automation (TIA Portal), Electrical Systems & Mechatronics
 
@@ -25,7 +25,6 @@ Bachelor's Degree in Electrical Engineering
 
 🎥 Project Videos:
 I created a 2D animated video to explain the simple principle of how light works, demonstrating its behavior with different materials in various environments.
-
 ▶️ [Watch the video on YouTube]([https://www.youtube.com/watch?v=YourVideoID](https://youtu.be/M9du1OaK26g?feature=shared))
 
 🔋 How Batteries Work – Motion Graphic Video 
