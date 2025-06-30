@@ -1,5 +1,5 @@
 👋 Hello, I'm Abdenasser Khalifa
-Specialized Technician
+Specialized Technician,
 Bachelor's Degree in Electrical Engineering | Industrial Maintenance,
 Automation (TIA Portal), Electrical Systems & Mechatronics
 
