@@ -45,5 +45,5 @@ I created a 2D animated video to explain the simple principle of how light works
  📫 Contact:
 - 📧 Email: abdenasserkhalifa@gmail.com
 - 🌍 Location: Tunisia
-- 🔗 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abdenasser-khalifa-05399625b/))
+- 🔗 LinkedIn:https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abdenasser-khalifa-05399625b/
 
